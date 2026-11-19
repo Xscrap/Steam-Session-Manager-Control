@@ -1,6 +1,6 @@
 {
     "control_version": 1,
-    "app_enabled": true,
+    "app_enabled": false,
     "required_version": "5.0.0",
     "update_url": "https://cubework.ct.ws/",
     "messages": {
