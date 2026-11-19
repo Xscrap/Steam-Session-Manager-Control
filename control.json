@@ -1,10 +1,10 @@
 {
     "control_version": 1,
     "app_enabled": true,
-    "required_version": "5.0.0",
-    "update_url": "https://cubework.ct.ws/",
+    "required_version": "1.0.0",
+    "update_url": "https://legacys.ct.ws/",
     "messages": {
-        "disabled": "Steam Session Manager has been permanently disabled by its publisher.",
-        "update_required": "A new version is available. This version can no longer be used. Please download the required version from the official website."
+        "disabled": "Steam Session Manager has been permanently disabled by its publisher. If you believe this is a mistake, please contact support.",
+        "update_required": "A new version of Steam Session Manager is available. This version can no longer be used. Please download the required version from the official website."
     }
 }
